@@ -1,0 +1,1 @@
+Dies ist nicht ihr quellcode weshalb sie ihn nicht weiterverwenden dürfen es sei denn sie haben eine ausdrücklige erlaubniss!

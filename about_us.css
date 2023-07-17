@@ -1,0 +1,13 @@
+#about_us_section{
+    padding: 100px 0;
+    background: var(--secondary-color);
+    width:auto ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.about_us_container{
+    width: auto;
+background: var(--secondary-color);
+}
